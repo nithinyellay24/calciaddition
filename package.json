@@ -1,0 +1,10 @@
+{
+	"author":"nithin",
+	"name":"calciaddition24",
+	"main":"addition",
+	"repositories":{
+		"type":"git",
+		"url":"https://github.com/nithinyellay24/calciaddition"
+	},
+	"version":"0.0.1"
+}
